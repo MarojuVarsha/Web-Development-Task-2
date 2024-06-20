@@ -1,0 +1,21 @@
+/* Custom CSS for styling the webpage */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ddd;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
